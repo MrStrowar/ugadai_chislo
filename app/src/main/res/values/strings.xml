@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ugadaika</string>
+    <string name="guess">Попробуй угадать мое число от 1 до 100</string>
+    <string name="input">Введите рандомное число:</string>
+</resources>
